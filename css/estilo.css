@@ -1,0 +1,129 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 2.75em;
+    font-weight: bold;
+    color: #1E8BC3;
+}
+
+h3 {
+    font-weight: bold;
+    color: #1E8BC3;
+}
+
+.fontzero {
+    font-size: 0;
+}
+
+.margin {
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+
+.sub {
+    font-weight: bold;
+    font-size: 3.5em;
+    color: #D35400;
+}
+
+.contrate {
+    text-transform: uppercase;
+    font-size: 5em;
+    color: #D35400;
+}
+
+.artigo {
+    border-style: outset;
+}
+
+.fa {
+    padding: 20px;
+    color: chocolate;
+}
+
+.fa:hover {
+    color: brown;
+}
+
+label {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #22313F;
+}
+
+nav {
+    background-color: #333333;
+}
+
+ul li a {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #BDC3C7;
+    padding: 20px;
+}
+
+.header_site {
+    background-image: url(../img/laptop1.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /*fazer a imagem não sair do lugar*/
+    color: aliceblue;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    opacity: 0.9;
+}
+
+.sv {
+    padding-bottom: 50px;
+}
+
+.conteudo {
+    padding-top: 100px;
+    padding-top: 100px;
+}
+
+.paralax {
+    background-image: url(../img/code.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /*fazer a imagem não sair do lugar*/
+    color: aliceblue;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    opacity: 0.9;
+}
+
+.contato {
+    background-color: #BDC3C7;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.form {
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #22313F;
+}
+
+footer {
+    background: #333333;
+    color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #26C281 !important;
+}
